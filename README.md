@@ -41,9 +41,6 @@ Here’s a brief overview of the topics covered in these solutions:
 - **Nested subqueries**
 - **Date and string functions**
 
-## 🌟 Want to Connect?
-If you find these solutions helpful or want to discuss SQL concepts, feel free to connect with me on [LinkedIn](https://www.linkedin.com/feed/))!
-
 ## 📫 Feedback
 Got any feedback or suggestions? Feel free to open an issue or submit a pull request.
 
