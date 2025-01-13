@@ -42,7 +42,7 @@ Here’s a brief overview of the topics covered in these solutions:
 - **Date and string functions**
 
 ## 🌟 Want to Connect?
-If you find these solutions helpful or want to discuss SQL concepts, feel free to connect with me on [LinkedIn](www.linkedin.com/in/heramb-chaudhari)!
+If you find these solutions helpful or want to discuss SQL concepts, feel free to connect with me on [LinkedIn]([www.linkedin.com/in/heramb-chaudhari](https://www.linkedin.com/in/heramb-chaudhari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))!
 
 ## 📫 Feedback
 Got any feedback or suggestions? Feel free to open an issue or submit a pull request.
